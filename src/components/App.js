@@ -1,5 +1,5 @@
 // Fichero src/components/App.js
-import '../styles/App.css';
+import '../styles/App.scss';
 import '../styles/_reset.scss';
 import '../styles/_loading.scss';
 import '../styles/_letters.scss';
